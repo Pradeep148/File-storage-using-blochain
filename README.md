@@ -105,6 +105,6 @@ Here, issues with On-chain blockchain can be solved by using off-chain blockchai
 <h2>References:</h2>
 1. https://github.com/JungWinter/file-on-blockchain<br />
 2. https://github.com/MoTechStore/Python-Flask-Blockchain-Based-Content-Sharing<br/>
-3. https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a
+3. https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a</br>
 4.https://github.com/codingBeast25/Blockchain-based-File-Storage
 
