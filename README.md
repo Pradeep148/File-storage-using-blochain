@@ -18,9 +18,6 @@ We developed a web-based application for decentralized file storing using blockc
 We are using randomly generated nonce in proof of work concept to acheive the required difficulty (diff = 3). Once peer uploads the file, the file is stored in a block including username, filesize and file data. These block gets appended to the current blockchain, which makes it impossible to edit or delete the file/block.<br /> 
 The reason to implement file storing using blockchain is its abilitiy to avoid any modification or deletion. No one can delete or corrupt our files that are stored.
 
-<h2> Project Demo </h2>
-<h3> Youtube Demo Link : https://youtu.be/Z6JiYkk8Qt8 </h3>
-
 <h2>Importance of Blockchain:</h2>
 
 Blockchain data structure is used to store digital information securely. Blockchain is an open ledger which can be accessed by multiple parties all at once. Blockchain holds various types of digital information such as transaction information, files, messages, etc. The successful implementation of blockchain holds different types of functionalities such as consensus algorithm, mining block, validation of block etc.
@@ -93,11 +90,11 @@ Blockchain applications can also be divided into two types: On-chain Blockchain 
 <h3>Advantages of On-chain blockchain: </h3>
 
 On-chain blockchain can be more secure because information is capsulated in secure blocks.
-Infomation can be recovered easily in case of break in the system.
+Information can be recovered easily in case of break in the system.
 
 <h3>Disadvantages of On-chain blockchain:</h3>
 
-Runnning time of the insertion and other block-operations can be slow because it holds too much data to process.
+Running time of the insertion and other block-operations can be slow because it holds too much data to process.
 It is expensive and requires more resources to maintain.
 
 Here, issues with On-chain blockchain can be solved by using off-chain blockchain but On-chain blockchain is more effective where main concern is security and back-up of information. For this project, we have implemented On-chain blockchain which contains entire file data in block including file size and file name.
